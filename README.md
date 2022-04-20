@@ -134,7 +134,7 @@ CSSのグリッドレイアウトを使用して以下のように領域を分�
 
 <img src="./img/01_08.png" width="800">
 
-> 参考：<a href="https://qiita.com/kura07/items/e633b35e33e43240d363" target="_blank">https://qiita.com/kura07/items/e633b35e33e43240d363</a>
+> 参考：<a href="https://qiita.com/kura07/items/e633b35e33e43240d363" target="_blank">https://qiita.com/kura07/items/e633b35e33e43240d363</a><br>※別タブで開くために、Ctrlキー（またはCommandキー）を押しながらリンクをクリックしてください。
 
 <br>
 
