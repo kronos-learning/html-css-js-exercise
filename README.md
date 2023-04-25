@@ -130,11 +130,11 @@ articleの両端に5%ずつ余白をつける。
 
 ### 演習1.9（グリッドレイアウトの適用）
 
-CSSのグリッドレイアウトを使用して以下のように領域を分割し、それぞれ背景色を適用する。
+CSSのグリッドレイアウトまたはフレックスボックスを使用して以下のように領域を分割し、それぞれ背景色を適用する。
 
 <img src="./img/01_08.png" width="800">
 
-> 参考：<a href="https://qiita.com/kura07/items/e633b35e33e43240d363" target="_blank">https://qiita.com/kura07/items/e633b35e33e43240d363</a><br>※別タブで開くために、Ctrlキー（またはCommandキー）を押しながらリンクをクリックしてください。
+> 参考：CSSのグリッドレイアウト<br><a href="https://qiita.com/kura07/items/e633b35e33e43240d363" target="_blank">https://qiita.com/kura07/items/e633b35e33e43240d363</a><br>※別タブで開くために、Ctrlキー（またはCommandキー）を押しながらリンクをクリックしてください。
 
 <br>
 
