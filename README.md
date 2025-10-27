@@ -29,7 +29,7 @@
 
 画像をクリックすると以下のサイトに別タブで遷移するようにする。
 
-URL: https://www.amazon.co.jp/dp/4300101019/
+URL: https://www.amazon.co.jp/dp/4300115257/
 
 <br>
 
@@ -134,7 +134,7 @@ CSSのグリッドレイアウトまたはフレックスボックスを使用�
 
 <img src="./img/01_08.png" width="800">
 
-> 参考：CSSのグリッドレイアウト<br><a href="https://qiita.com/kura07/items/e633b35e33e43240d363" target="_blank">https://qiita.com/kura07/items/e633b35e33e43240d363</a><br>※別タブで開くために、Ctrlキー（またはCommandキー）を押しながらリンクをクリックしてください。
+> 参考：<a href="https://developer.mozilla.org/ja/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout" target="_blank">CSSグリッドレイアウトの基本概念</a><br>※別タブで開くために、Ctrlキー（またはCommandキー）を押しながらリンクをクリックしてください。
 
 <br>
 
